@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Nicholas Tolley
 tagline:          'Nicholas Tolley'
 description:      'Computational Neuroscientist.<br>Personal blog and portfoloio'
-url:              http://hyde.getpoole.com
+url:              https://ntolley.github.io/
 baseurl:          /
 
 author:
@@ -21,8 +21,8 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/ntolley/ntolley.github.io/
+#github:
+#  repo:           https://github.com/ntolley/ntolley.github.io/
 
 tags:
 
