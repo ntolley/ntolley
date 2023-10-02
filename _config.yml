@@ -21,11 +21,18 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-#github:
-#  repo:           https://github.com/ntolley/ntolley.github.io/
+github:
+  repo:           https://github.com/ntolley/ntolley.github.io/
 
 tags:
 
+github:           
+  repo:           https://github.com/yangxiaozhou/yangxiaozhou.github.io
+
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-commonmark-ghpages
 
 github_username:  ntolley
 linkedin_username: ntolley
